@@ -1,0 +1,66 @@
+body {
+  font-family: sans-serif;
+  background-color: #f0f4f8;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #5b9aa0;
+  color: white;
+  text-align: center;
+  padding: 30px;
+}
+
+section {
+  padding: 20px;
+  margin: 10px;
+  background-color: white;
+  border-radius: 10px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0px 0px 10px #ccc;
+}
+
+h2 {
+  color: #5b9aa0;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #5b9aa0;
+  color: white;
+}
+#projects {
+  background-color: #fff8dc;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+}
+
+#projects h2 {
+  color: #333;
+}
+
+.project {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
+
+.project h3 {
+  color: #444;
+}
+
+.project p {
+  color: #666;
+}
+
